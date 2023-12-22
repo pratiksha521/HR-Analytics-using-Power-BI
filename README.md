@@ -23,6 +23,22 @@ I have used several charts and visualizations to gain insights into the employee
 5) Stacked bar chart: The chart displayed the attrition count by education field. The data showed that the attrition count was highest in the Life Sciences field of employees leaving, followed by the Medical Field of employees leaving.
 6) Donut charts: The chart displayed the Attrition rate by gender for different age group. The data revealed that the age group from 25-34 had the highest attrition count of 112.
 
+## Filters: 
+Finally, department filters were implemented at the top of the dashboard, which allowed users to filter the entire dashboard by selecting a specific department.
+
+## Suggestions:
+Some suggestions for the HR department to improve employee performance and retention:
+1) Investigate the reasons behind the higher attrition rate among male employees and take appropriate measures to address their concerns and needs.
+2) Identify the root causes of the high attrition rate among employees in the R&D and Sales Department and take necessary steps to retain employees in these areas.
+3) Address the concerns of employees in the age group of 25-34, who have the highest attrition rate, and provide them with better opportunities for career growth and development.
+4) Conduct a review of the job roles with the highest attrition rate, such as Sales Executives, Research Scientists and Laboratory Technicians, to identify the reasons behind the high attrition rate and take necessary steps to address these concerns.
+5) Identify the root causes of the high attrition rate among employees in the Life Sciences and Medical Fields and take necessary steps to retain employees in these areas.
+6) Provide training and development opportunities for employees to help them enhance their skills and progress in their careers, which can improve job satisfaction and reduce attrition.
+7) Provide employees with a supportive work environment, opportunities for work-life balance, and recognition and rewards for their contributions to the company, which can increase employee engagement and retention.
+## Conclusion:
+This HR analytics dashboard showed important information about employees that can help make better decisions and keep employees happy and working for the organization. By taking actions to address the issues that employees face and creating a positive work environment, the HR department can help employees perform better and stay in their jobs longer. This can help the organization make more money and be more successful.
+
+
 
 
 
